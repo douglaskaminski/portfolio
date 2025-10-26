@@ -24,7 +24,7 @@ Portfólio profissional desenvolvido para apresentar meus projetos e habilidades
 
 
 
-Acesse: \[https://douglaskaminski.github.io/Portf-lio/](https://douglaskaminski.github.io/Portf-lio/)
+Acesse: \(https://douglaskaminski.github.io/Portf-lio/)
 
 
 
